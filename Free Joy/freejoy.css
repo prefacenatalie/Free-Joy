@@ -1,0 +1,33 @@
+html{
+	font-family: sans-serif;
+	color: white;
+}
+
+body{
+	background-image: url(freejoybg.jpg);
+	background-size: cover;
+	text-align: left;
+	text-align: 50px;
+	margin: 0 auto;
+	margin-left: 45%;
+}
+
+h3{
+	color: lightgreen;
+	border: none;
+	cursor: pointer;
+	padding: 5px;
+	text-align: center;
+	display: inline-block;
+	font-size: 12px;
+	border-radius: 4px;
+}
+
+.guessField{
+	color: black;
+}
+
+.result{
+	color: white;
+	padding: 3px;
+}
